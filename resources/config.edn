@@ -1,0 +1,7 @@
+{
+ :twitter {
+           :clientId "yourTwitchClientId"
+           :clientSecret "yourTwitchClientSecret"
+           :gameId 2748
+           }
+ }
