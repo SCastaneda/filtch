@@ -4,6 +4,8 @@ You'll need to get a `clientId` and `clientSecret` by signing up at https://dev.
 
 Only tested on gameId 2748 - for Magic: The Gathering.
 
+Currently running at http://filtch.sam-the-man.com/
+
 ## Prerequisites
 
 You will need [Leiningen][] 2.0.0 or above installed.
